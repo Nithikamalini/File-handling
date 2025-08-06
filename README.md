@@ -1,5 +1,4 @@
 # File-handling
-# REST-API-CLIENT
 COMPANY: CODTECH IT SOLUTION
 
 NAME: NITHIKAMALINI S                                            
@@ -18,3 +17,5 @@ This project demonstrates the implementation of basic file handling operations i
 The program begins by checking whether a specific file exists. If it does not exist, it creates the file and writes some sample data into it. If the file already exists, the program reads and displays its contents to the user. The implementation ensures proper resource management by using try-catch blocks and closing file streams appropriately to avoid memory leaks or file corruption.
 
 This simple project serves as a foundation for understanding how real-world applications handle data storage, such as logging user activity, saving reports, or storing configuration settings. It emphasizes the importance of exception handling and stream management in Java and can be extended further to support file searching, file deletion, or reading structured data like CSV files.
+#OUTPUT
+<img width="692" height="327" alt="Image" src="https://github.com/user-attachments/assets/4d0608c4-16e7-469a-beb4-dd2eb79a2784" />
